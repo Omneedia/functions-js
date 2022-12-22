@@ -1,7 +1,7 @@
 {
-  "name": "@supabase/functions-js",
+  "name": "@omneedia/functions-js",
   "version": "0.0.0-automated",
-  "description": "JS Client library to interact with Supabase Functions.",
+  "description": "JS Client library to interact with Omneedia Functions.",
   "main": "dist/main/index.js",
   "module": "dist/module/index.js",
   "types": "dist/module/index.d.ts",
@@ -19,22 +19,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/supabase/functions-js.git"
+    "url": "git+https://github.com/omneedia/functions-js.git"
   },
   "keywords": [
     "functions",
-    "supabase"
+    "omneedia"
   ],
-  "author": "Supabase",
+  "author": "Omneedia",
   "files": [
     "dist",
     "src"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/supabase/functions-js/issues"
+    "url": "https://github.com/omneedia/functions-js/issues"
   },
-  "homepage": "https://github.com/supabase/functions-js#readme",
+  "homepage": "https://github.com/omneedia/functions-js#readme",
   "dependencies": {
     "cross-fetch": "^3.1.5"
   },
